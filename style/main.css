@@ -3,6 +3,10 @@ main {
   position: absolute;
 }
 
+a {
+  text-decoration: none;
+  color: #222;
+}
 .intro {
   width: 100vw;
   height: 60vh;
